@@ -4,8 +4,11 @@ This mini-project consists of building a chat app with sockets using the C progr
 
 1-Compile the server and client source code by running the following commands:
 
+
 gcc server.c -o server
+
 gcc client.c -o client
+
 
 2-Start the server by running the server:
 ./server

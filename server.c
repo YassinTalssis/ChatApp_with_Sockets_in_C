@@ -8,7 +8,7 @@
 #include <sys/socket.h> 
 #include <netinet/in.h> 
 #include <sys/time.h> //FD_SET, FD_ISSET, FD_ZERO macros 
-     
+//ty   
 #define TRUE   1 
 #define FALSE  0 
 #define PORT 8888 
